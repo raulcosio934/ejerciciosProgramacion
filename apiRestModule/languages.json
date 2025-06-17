@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "language": "Spanish",
+        "greeting": "Hola a todos"
+    },
+    {
+        "id": "2",
+        "language": "English",
+        "greeting": "Hello everyone"
+    },
+    {
+        "id": "3",
+        "language": "French",
+        "greeting": "Bonjour à tous"
+    },
+    {
+        "id": "4",
+        "language": "German",
+        "greeting": "Hallo zusammen"
+    },
+    {
+        "id": "5",
+        "language": "Italian",
+        "greeting": "Ciao a tutti"
+    }
+]
